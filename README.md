@@ -2,5 +2,5 @@
 
 Hi there 👋, <br/>
 
-I'm Suresh, a full-stack developer based in Colombo, Sri Lanka.
-I build and maintain small open source projects to improve developer workflow & productivity.
+I'm Suresh, a full-stack software engineer based in Colombo, Sri Lanka.
+I'm very passionate about building developer-focused tools to improve developer workflow & productivity.
