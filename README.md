@@ -3,4 +3,4 @@
 Hi there 👋, <br/>
 
 I'm Suresh, a full-stack software engineer based in Colombo, Sri Lanka.
-I'm very passionate about building developer-focused tools to improve developer workflow & productivity.
+I enjoy building things that improve developer workflow & productivity.
