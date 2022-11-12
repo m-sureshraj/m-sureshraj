@@ -2,5 +2,5 @@
 
 Hi there 👋, <br/>
 
-I'm Sureshraj, a full-stack software engineer based in Colombo, Sri Lanka.
+I'm Sureshraj, a software engineer based in the Netherlands.
 I enjoy building things that improve developer workflow & productivity.
